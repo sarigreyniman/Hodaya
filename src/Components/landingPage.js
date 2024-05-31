@@ -33,7 +33,7 @@ const LandingPage = () => {
     };
 
     const handleButtonClick = () => {
-        window.location.href = 'https://www.kupat.org/views/DonationPage?pid=1297&recid=0';
+        window.location.href = 'https://www.kupat.org.il/views/DonationPage?pid=1297&recid=0';
     };
 
     return (
